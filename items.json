@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Wood Pickaxe",
+    "type": "Tool",
+    "description": "A crude tool, useful for breaking down walls.",
+    "rarity": "Common",
+    "melee_damage": [15, 17],
+    "attack_speed": 2.5,
+    "mining_damage": 15,
+    "durability": 200,
+    "reinforced_durability": 400, 
+    "reinforced_melee_damage": [17.25, 19.89]
+  }, {
+    "name": "Copper Pickaxe",
+    "type": "Tool",
+    "description": "A sturdy tool, well-suited for breaking down walls effortlessly.",
+    "rarity": "Common",
+    "melee_damage": [23, 27],
+    "attack_speed": 2.5,
+    "mining_damage": 43,
+    "durability": 400,
+    "reinforced_durability": 800, 
+    "reinforced_melee_damage": [16.45, 31.05] 
+  }
+]
