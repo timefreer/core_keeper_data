@@ -38,5 +38,5 @@ def rename_column(current, new)
 end
 
 load_data(:items)
-rename_column(:sprite_name, :image)
+rename_column(:type, :slot)
 save_data!
