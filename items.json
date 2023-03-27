@@ -6,9 +6,9 @@
       39,
       47
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "107.5",
-    "durability": "250",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 107.5,
+    "durability": 250.0,
     "effects": "",
     "acquisition": "Crafted with Basic Workbench",
     "type": "weapon"
@@ -20,9 +20,9 @@
       74,
       90
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "205",
-    "durability": "300",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 205.0,
+    "durability": 300.0,
     "effects": "",
     "acquisition": "Crafted with Tin Workbench",
     "type": "weapon"
@@ -34,9 +34,9 @@
       61,
       73
     ],
-    "attacks_per_second": "3.3",
-    "damage_per_second": "221.1",
-    "durability": "300",
+    "attacks_per_second": 3.3,
+    "damage_per_second": 221.1,
+    "durability": 300.0,
     "effects": "",
     "acquisition": "Crafted with Tin Anvil",
     "type": "weapon"
@@ -48,9 +48,9 @@
       107,
       129
     ],
-    "attacks_per_second": "1.7",
-    "damage_per_second": "200.6",
-    "durability": "300",
+    "attacks_per_second": 1.7,
+    "damage_per_second": 200.6,
+    "durability": 300.0,
     "effects": "",
     "acquisition": "Dropped by Big Larva",
     "type": "weapon"
@@ -62,9 +62,9 @@
       81,
       97
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "222.5",
-    "durability": "300",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 222.5,
+    "durability": 300.0,
     "effects": "+4% critical hit chance",
     "acquisition": "Dropped by Caveling Spearman",
     "type": "weapon"
@@ -76,9 +76,9 @@
       102,
       124
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "282.5",
-    "durability": "350",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 282.5,
+    "durability": 350.0,
     "effects": "",
     "acquisition": "Crafted with Iron Workbench",
     "type": "weapon"
@@ -90,9 +90,9 @@
       78,
       94
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "215",
-    "durability": "350",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 215.0,
+    "durability": 350.0,
     "effects": "Slows down targets movement speed by -41.1% for 4 sec",
     "acquisition": "Crafted with Glurch Eye",
     "type": "weapon"
@@ -104,9 +104,9 @@
       101,
       123
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "280",
-    "durability": "350",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 280.0,
+    "durability": 350.0,
     "effects": "+31 max health",
     "acquisition": "Found in Chest in various biomes. Can also be dropped by The Hive Mother",
     "type": ""
@@ -118,9 +118,9 @@
       149,
       181
     ],
-    "attacks_per_second": "1.7",
-    "damage_per_second": "280.5",
-    "durability": "350",
+    "attacks_per_second": 1.7,
+    "damage_per_second": 280.5,
+    "durability": 350.0,
     "effects": "+17.6% melee damage",
     "acquisition": "Dropped by The Hive Mother",
     "type": "weapon"
@@ -132,9 +132,9 @@
       112,
       136
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "310",
-    "durability": "350",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 310.0,
+    "durability": 350.0,
     "effects": "+50% chance to knockback",
     "acquisition": "Crafted with Heart of the Hive Mother",
     "type": "weapon"
@@ -146,9 +146,9 @@
       124,
       150
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "342.5",
-    "durability": "350",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 342.5,
+    "durability": 350.0,
     "effects": "+11% critical hit chance",
     "acquisition": "Crafted with Scarlet Anvil",
     "type": "weapon"
@@ -160,9 +160,9 @@
       97,
       117
     ],
-    "attacks_per_second": "3.3",
-    "damage_per_second": "353.1",
-    "durability": "350",
+    "attacks_per_second": 3.3,
+    "damage_per_second": 353.1,
+    "durability": 350.0,
     "effects": "+24% critical hit damage",
     "acquisition": "Crafted with Scarlet Anvil",
     "type": "weapon"
@@ -174,9 +174,9 @@
       106,
       128
     ],
-    "attacks_per_second": "3.3",
-    "damage_per_second": "386.1",
-    "durability": "350",
+    "attacks_per_second": 3.3,
+    "damage_per_second": 386.1,
+    "durability": 350.0,
     "effects": "+2 glow +6% critical hit chance +13% critical hit damage",
     "acquisition": "Dropped by Malugaz the Corrupted",
     "type": "weapon"
@@ -188,9 +188,9 @@
       175,
       213
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "485",
-    "durability": "500",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 485.0,
+    "durability": 500.0,
     "effects": "+18% critical hit damage +28% chance to apply poison on hit, reduces enemy healing received by 75%",
     "acquisition": "Dropped by Ivy the Poisonous Mass or found inside Insect remains in Mold Biome",
     "type": "weapon"
@@ -202,9 +202,9 @@
       204,
       248
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "565",
-    "durability": "Unbreakable",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 565.0,
+    "durability": 0.0,
     "effects": "+62 max health +3 life on melee hit +15% chance on hit to kill any target that has lower health than you",
     "acquisition": "Crafted with Rune Parchment",
     "type": ""
@@ -216,9 +216,9 @@
       224,
       272
     ],
-    "attacks_per_second": "1.7",
-    "damage_per_second": "421.6",
-    "durability": "350",
+    "attacks_per_second": 1.7,
+    "damage_per_second": 421.6,
+    "durability": 350.0,
     "effects": "",
     "acquisition": "Dropped by Tentacle",
     "type": "weapon"
@@ -230,9 +230,9 @@
       165,
       201
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "457.5",
-    "durability": "350",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 457.5,
+    "durability": 350.0,
     "effects": "+5.9% melee attack speed",
     "acquisition": "Crafted with Octarine Workbench",
     "type": "weapon"
@@ -244,9 +244,9 @@
       245,
       299
     ],
-    "attacks_per_second": "1.7",
-    "damage_per_second": "462.4",
-    "durability": "350",
+    "attacks_per_second": 1.7,
+    "damage_per_second": 462.4,
+    "durability": 350.0,
     "effects": "+16% critical hit chance",
     "acquisition": "Crafted with Octarine Workbench",
     "type": "weapon"
@@ -258,9 +258,9 @@
       243,
       295
     ],
-    "attacks_per_second": "1.7",
-    "damage_per_second": "457.3",
-    "durability": "350",
+    "attacks_per_second": 1.7,
+    "damage_per_second": 457.3,
+    "durability": 350.0,
     "effects": "+31% critical hit damage +57% chance to knockback",
     "acquisition": "Dropped by Omoroth the Sea Titan",
     "type": "weapon"
@@ -272,9 +272,9 @@
       177,
       215
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "490",
-    "durability": "350",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 490.0,
+    "durability": 350.0,
     "effects": "+8% critical hit chance +37% chance on hit to apply slippery movement",
     "acquisition": "Dropped by Morpha the Aquatic Mass",
     "type": "weapon"
@@ -286,9 +286,9 @@
       192,
       234
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "532.5",
-    "durability": "350",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 532.5,
+    "durability": 350.0,
     "effects": "+36% critical hit damage",
     "acquisition": "Crafted with Galaxite Workbench",
     "type": "weapon"
@@ -300,9 +300,9 @@
       284,
       346
     ],
-    "attacks_per_second": "1.7",
-    "damage_per_second": "535.5",
-    "durability": "350",
+    "attacks_per_second": 1.7,
+    "damage_per_second": 535.5,
+    "durability": 350.0,
     "effects": "+52 burn damage applied on hit",
     "acquisition": "Looted from Smoldering Chest",
     "type": "weapon"
@@ -314,9 +314,9 @@
       159,
       193
     ],
-    "attacks_per_second": "3.3",
-    "damage_per_second": "580.8",
-    "durability": "350",
+    "attacks_per_second": 3.3,
+    "damage_per_second": 580.8,
+    "durability": 350.0,
     "effects": "+18% critical hit chance",
     "acquisition": "Crafted with Galaxite Workbench",
     "type": "weapon"
@@ -328,9 +328,9 @@
       216,
       262
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "597.5",
-    "durability": "350",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 597.5,
+    "durability": 350.0,
     "effects": "+36.1% melee damage",
     "acquisition": "Digging spot in Mammoth Fossil scene in The Desert of Beginnings",
     "type": "weapon"
@@ -339,9 +339,9 @@
     "sprite_name": "sprite_name",
     "name": "name",
     "damage": "damage",
-    "attacks_per_second": "attacks_per_second",
-    "damage_per_second": "damage_per_second",
-    "durability": "durability",
+    "attacks_per_second": 0.0,
+    "damage_per_second": 0.0,
+    "durability": 0.0,
     "effects": "effects",
     "acquisition": "acquisition",
     "type": ""
@@ -353,9 +353,9 @@
       52,
       62
     ],
-    "attacks_per_second": "2",
-    "damage_per_second": "114",
-    "durability": "250",
+    "attacks_per_second": 2.0,
+    "damage_per_second": 114.0,
+    "durability": 250.0,
     "effects": "",
     "acquisition": "Crafted with Tin Anvil",
     "type": "weapon"
@@ -367,9 +367,9 @@
       198,
       242
     ],
-    "attacks_per_second": "0.5",
-    "damage_per_second": "110",
-    "durability": "150",
+    "attacks_per_second": 0.5,
+    "damage_per_second": 110.0,
+    "durability": 150.0,
     "effects": "",
     "acquisition": "Purchased from Caveling Merchant",
     "type": "weapon"
@@ -381,9 +381,9 @@
       99,
       119
     ],
-    "attacks_per_second": "0.7",
-    "damage_per_second": "76.3",
-    "durability": "150",
+    "attacks_per_second": 0.7,
+    "damage_per_second": 76.3,
+    "durability": 150.0,
     "effects": "Projectiles pierce through targets",
     "acquisition": "Crafted with Heart of the Hive Mother",
     "type": "weapon"
@@ -396,9 +396,9 @@
       29,
       150
     ],
-    "attacks_per_second": "0.7",
-    "damage_per_second": "114.8",
-    "durability": "250",
+    "attacks_per_second": 0.7,
+    "damage_per_second": 114.8,
+    "durability": 250.0,
     "effects": "234 mining damage",
     "acquisition": "Dropped by The Hive Mother, Malugaz and Azeos",
     "type": "weapon"
@@ -410,9 +410,9 @@
       142,
       172
     ],
-    "attacks_per_second": "1.0",
-    "damage_per_second": "157",
-    "durability": "250",
+    "attacks_per_second": 1.0,
+    "damage_per_second": 157.0,
+    "durability": 250.0,
     "effects": "+35 burn damage every third sec",
     "acquisition": "Dropped by Caveling Shaman",
     "type": "weapon"
@@ -424,9 +424,9 @@
       117,
       143
     ],
-    "attacks_per_second": "1.7",
-    "damage_per_second": "221",
-    "durability": "250",
+    "attacks_per_second": 1.7,
+    "damage_per_second": 221.0,
+    "durability": 250.0,
     "effects": "+16% chance to apply poison on hit, reduces enemy healing received by 75%",
     "acquisition": "Dropped by Infected Caveling and Mold Tentacle",
     "type": "weapon"
@@ -438,9 +438,9 @@
       29,
       35
     ],
-    "attacks_per_second": "1.4",
-    "damage_per_second": "44.8",
-    "durability": "250",
+    "attacks_per_second": 1.4,
+    "damage_per_second": 44.8,
+    "durability": 250.0,
     "effects": "",
     "acquisition": "",
     "type": "weapon"
@@ -452,9 +452,9 @@
       99,
       119
     ],
-    "attacks_per_second": "1.4",
-    "damage_per_second": "152.6",
-    "durability": "250",
+    "attacks_per_second": 1.4,
+    "damage_per_second": 152.6,
+    "durability": 250.0,
     "effects": "+17.9% range damage",
     "acquisition": "Crafted with Iron Anvil",
     "type": "weapon"
@@ -466,9 +466,9 @@
       149,
       181
     ],
-    "attacks_per_second": "1.4",
-    "damage_per_second": "231",
-    "durability": "250",
+    "attacks_per_second": 1.4,
+    "damage_per_second": 231.0,
+    "durability": 250.0,
     "effects": "+5.5% range attack speed",
     "acquisition": "Crafted with Octarine Anvil",
     "type": "weapon"
@@ -480,9 +480,9 @@
       91,
       111
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "252.5",
-    "durability": "350",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 252.5,
+    "durability": 350.0,
     "effects": "+35% chance on hit to apply slippery movement",
     "acquisition": "Dropped by Bubble Crab",
     "type": "weapon"
@@ -494,9 +494,9 @@
       200,
       244
     ],
-    "attacks_per_second": "1",
-    "damage_per_second": "222",
-    "durability": "250",
+    "attacks_per_second": 1.0,
+    "damage_per_second": 222.0,
+    "durability": 250.0,
     "effects": "+26.8% range damage",
     "acquisition": "Dropped by Caveling Scholar",
     "type": "weapon"
@@ -508,9 +508,9 @@
       195,
       237
     ],
-    "attacks_per_second": "1.4",
-    "damage_per_second": "302.4",
-    "durability": "Unbreakable",
+    "attacks_per_second": 1.4,
+    "damage_per_second": 302.4,
+    "durability": 0.0,
     "effects": "+12% critical hit chance +27% critical hit damage +20% chance to summon a ghost caveling when killing any enemy",
     "acquisition": "Crafted with Glyph Parchment",
     "type": "weapon"
@@ -522,9 +522,9 @@
       108,
       130
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "297.5",
-    "durability": "250",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 297.5,
+    "durability": 250.0,
     "effects": "+19% critical hit chance",
     "acquisition": "Dropped by Caveling Assassin",
     "type": "weapon"
@@ -536,9 +536,9 @@
       108,
       130
     ],
-    "attacks_per_second": "2.5",
-    "damage_per_second": "297.5",
-    "durability": "350",
+    "attacks_per_second": 2.5,
+    "damage_per_second": 297.5,
+    "durability": 350.0,
     "effects": "+39% critical hit damage",
     "acquisition": "Crafted with Galaxite Anvil",
     "type": "weapon"
@@ -551,9 +551,9 @@
       215,
       332
     ],
-    "attacks_per_second": "0.7",
-    "damage_per_second": "349",
-    "durability": "250",
+    "attacks_per_second": 0.7,
+    "damage_per_second": 349.0,
+    "durability": 250.0,
     "effects": "Projectiles pierce through targets 688 mining damage",
     "acquisition": "Dropped by Igneous the Molten Mass",
     "type": "weapon"
@@ -566,9 +566,9 @@
       29,
       360
     ],
-    "attacks_per_second": "0.7",
-    "damage_per_second": "248.5",
-    "durability": "250",
+    "attacks_per_second": 0.7,
+    "damage_per_second": 248.5,
+    "durability": 250.0,
     "effects": "783 mining damage",
     "acquisition": "Dropped by Bomb Scarab",
     "type": "weapon"
@@ -580,9 +580,9 @@
       11,
       13
     ],
-    "attacks_per_second": "0.2",
-    "damage_per_second": "2.4",
-    "durability": "30",
+    "attacks_per_second": 0.2,
+    "damage_per_second": 2.4,
+    "durability": 30.0,
     "effects": "Charm the target for 20 sec",
     "acquisition": "Drop from opening a Valentine's Gift",
     "type": "weapon"
@@ -591,9 +591,9 @@
     "sprite_name": "sprite_name",
     "name": "name",
     "damage": "Explosive damage",
-    "attacks_per_second": "Mining damage",
-    "damage_per_second": "acquisition",
-    "durability": "",
+    "attacks_per_second": 0.0,
+    "damage_per_second": 0.0,
+    "durability": 0.0,
     "effects": "",
     "acquisition": "",
     "type": ""
@@ -605,9 +605,9 @@
       106,
       128
     ],
-    "attacks_per_second": "117",
-    "damage_per_second": "Crafted with Alchemist's Table",
-    "durability": "",
+    "attacks_per_second": 117.0,
+    "damage_per_second": 0.0,
+    "durability": 0.0,
     "effects": "",
     "acquisition": "",
     "type": ""
@@ -619,9 +619,9 @@
       303,
       369
     ],
-    "attacks_per_second": "495",
-    "damage_per_second": "Crafted with Alchemist's Table",
-    "durability": "",
+    "attacks_per_second": 495.0,
+    "damage_per_second": 0.0,
+    "durability": 0.0,
     "effects": "",
     "acquisition": "",
     "type": ""
@@ -633,9 +633,9 @@
       467,
       569
     ],
-    "attacks_per_second": "945",
-    "damage_per_second": "Crafted with Distillery Table",
-    "durability": "",
+    "attacks_per_second": 945.0,
+    "damage_per_second": 0.0,
+    "durability": 0.0,
     "effects": "",
     "acquisition": "",
     "type": ""
@@ -644,9 +644,9 @@
     "sprite_name": "",
     "name": "Dynamite Pack",
     "damage": "",
-    "attacks_per_second": "",
-    "damage_per_second": "Crafted with Electronics Table",
-    "durability": "",
+    "attacks_per_second": 0.0,
+    "damage_per_second": 0.0,
+    "durability": 0.0,
     "effects": "",
     "acquisition": "",
     "type": ""
