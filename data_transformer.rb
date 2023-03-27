@@ -20,13 +20,23 @@ def save_data!
 end
 
 def delete_column(delete_column)
-  _delete_column_sym = delete_column.to_sym
+  delete_column_sym = delete_column.to_sym
 
   $data.each do |row|
-    row.delete_if { |column, _| column.to_sym == _delete_column_sym }
+    row.delete_if { |column, _| column.to_sym == delete_column_sym }
+  end
+end
+
+def rename_column(current, new)
+  current_string, new_string = [current, new].map(&:to_s)
+
+  $data.each do |row|
+    next unless row.has_key?(current_string)
+
+    row.transform_keys!(current_string => new_string)
   end
 end
 
 load_data(:items)
-delete_column(:damage_per_second)
+rename_column(:sprite_name, :image)
 save_data!

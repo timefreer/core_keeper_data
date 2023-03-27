@@ -1,6 +1,6 @@
 [
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Copper Sword",
     "damage": [
       39,
@@ -13,7 +13,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Tin Sword",
     "damage": [
       74,
@@ -26,7 +26,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Tin Dagger",
     "damage": [
       61,
@@ -39,7 +39,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Tin Axe",
     "damage": [
       107,
@@ -52,7 +52,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Hunting Spear",
     "damage": [
       81,
@@ -65,7 +65,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Iron Sword",
     "damage": [
       102,
@@ -78,7 +78,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Slime Sword",
     "damage": [
       78,
@@ -91,7 +91,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Broken Handle",
     "damage": [
       101,
@@ -104,7 +104,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Battle Axe",
     "damage": [
       149,
@@ -117,7 +117,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Larva Spike Club",
     "damage": [
       112,
@@ -130,7 +130,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Scarlet Sword",
     "damage": [
       124,
@@ -143,7 +143,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Scarlet Dagger",
     "damage": [
       97,
@@ -156,7 +156,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Ritual Dagger",
     "damage": [
       106,
@@ -169,7 +169,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Poisonous Sickle",
     "damage": [
       175,
@@ -182,7 +182,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Rune Song",
     "damage": [
       204,
@@ -195,7 +195,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Tentacle Whip",
     "damage": [
       224,
@@ -208,7 +208,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Octarine Sword",
     "damage": [
       165,
@@ -221,7 +221,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Octarine Axe",
     "damage": [
       245,
@@ -234,7 +234,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Anchor Axe",
     "damage": [
       243,
@@ -247,7 +247,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Slippery Slime Sword",
     "damage": [
       177,
@@ -260,7 +260,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Galaxite Sword",
     "damage": [
       192,
@@ -273,7 +273,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Lava Battle Axe",
     "damage": [
       284,
@@ -286,7 +286,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Galaxite Dagger",
     "damage": [
       159,
@@ -299,7 +299,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Prehistoric Crystal Spear",
     "damage": [
       216,
@@ -312,7 +312,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "sprite_name",
+    "image": "sprite_name",
     "name": "name",
     "damage": "damage",
     "attacks_per_second": 0.0,
@@ -322,7 +322,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Slingshot",
     "damage": [
       52,
@@ -335,7 +335,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Flintlock Musket",
     "damage": [
       198,
@@ -348,7 +348,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Grubzooka",
     "damage": [
       99,
@@ -361,7 +361,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Hand Mortar",
     "damage": [
       25,
@@ -375,7 +375,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Fireball Staff",
     "damage": [
       142,
@@ -388,7 +388,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Blowpipe",
     "damage": [
       117,
@@ -401,7 +401,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Wood Bow",
     "damage": [
       29,
@@ -414,7 +414,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Iron Bow",
     "damage": [
       99,
@@ -427,7 +427,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Octarine Bow",
     "damage": [
       149,
@@ -440,7 +440,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Bubble Gun",
     "damage": [
       91,
@@ -453,7 +453,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Scholar's Staff",
     "damage": [
       200,
@@ -466,7 +466,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Phantom Spark",
     "damage": [
       195,
@@ -479,7 +479,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Throwing Daggers",
     "damage": [
       108,
@@ -492,7 +492,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Galaxite Chakram",
     "damage": [
       108,
@@ -505,7 +505,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Burnzooka",
     "damage": [
       177,
@@ -519,7 +519,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Bomb Scarab Mortar",
     "damage": [
       25,
@@ -533,7 +533,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Cupid Bow",
     "damage": [
       11,
@@ -546,7 +546,7 @@
     "type": "weapon"
   },
   {
-    "sprite_name": "sprite_name",
+    "image": "sprite_name",
     "name": "name",
     "damage": "Explosive damage",
     "attacks_per_second": 0.0,
@@ -556,7 +556,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Crude Bomb",
     "damage": [
       106,
@@ -569,7 +569,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Bomb",
     "damage": [
       303,
@@ -582,7 +582,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Large Bomb",
     "damage": [
       467,
@@ -595,7 +595,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Dynamite Pack",
     "damage": "",
     "attacks_per_second": 0.0,
@@ -605,7 +605,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Peasant Hat",
     "max_health": null,
     "armor": 2,
@@ -615,7 +615,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Peasant Chest",
     "max_health": null,
     "armor": 2,
@@ -625,7 +625,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Caveling Hood",
     "max_health": 15,
     "armor": null,
@@ -635,7 +635,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Caveling Chest",
     "max_health": 24,
     "armor": null,
@@ -645,7 +645,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Caveling Pants",
     "max_health": 20,
     "armor": null,
@@ -655,7 +655,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Wood Helm",
     "max_health": 5,
     "armor": 3,
@@ -665,7 +665,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Wood Chest",
     "max_health": 6,
     "armor": 4,
@@ -675,7 +675,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Wood Pants",
     "max_health": 6,
     "armor": 4,
@@ -685,7 +685,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Copper Helm",
     "max_health": 8,
     "armor": 4,
@@ -695,7 +695,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Copper Breastplate",
     "max_health": 10,
     "armor": 7,
@@ -705,7 +705,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Copper Pants",
     "max_health": 9,
     "armor": 6,
@@ -715,7 +715,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Bronze Helm",
     "max_health": 12,
     "armor": 6,
@@ -725,7 +725,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Bronze Breastplate",
     "max_health": 18,
     "armor": 9,
@@ -735,7 +735,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Bronze Pants",
     "max_health": 14,
     "armor": 8,
@@ -745,7 +745,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Iron Helm",
     "max_health": 15,
     "armor": 10,
@@ -755,7 +755,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Iron Breastplate",
     "max_health": 25,
     "armor": 12,
@@ -765,7 +765,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Iron Pants",
     "max_health": 20,
     "armor": 12,
@@ -775,7 +775,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Skirmisher Cap",
     "max_health": 15,
     "armor": 7,
@@ -785,7 +785,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Larva Helm",
     "max_health": 20,
     "armor": 10,
@@ -795,7 +795,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Larva Chest",
     "max_health": 27,
     "armor": 14,
@@ -805,7 +805,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Carapace Helm",
     "max_health": 17,
     "armor": 10,
@@ -815,7 +815,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Carapace Breastplate",
     "max_health": 27,
     "armor": 15,
@@ -825,7 +825,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "King Slime Crown",
     "max_health": 23,
     "armor": 11,
@@ -835,7 +835,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Farmer's Hat",
     "max_health": 20,
     "armor": null,
@@ -845,7 +845,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Scarlet Helm",
     "max_health": 25,
     "armor": 12,
@@ -855,7 +855,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Scarlet Breastplate",
     "max_health": 31,
     "armor": 19,
@@ -865,7 +865,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Scarlet Pants",
     "max_health": 27,
     "armor": 16,
@@ -875,7 +875,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Hunter Hood",
     "max_health": 23,
     "armor": null,
@@ -885,7 +885,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Hunter Cloak",
     "max_health": 36,
     "armor": null,
@@ -895,7 +895,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Ivy's Thorn Harness",
     "max_health": 70,
     "armor": null,
@@ -905,7 +905,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Ivy's Pants",
     "max_health": 65,
     "armor": null,
@@ -915,7 +915,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Sunglasses",
     "max_health": null,
     "armor": null,
@@ -925,7 +925,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Towel",
     "max_health": 30,
     "armor": null,
@@ -935,7 +935,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Blue Board Shorts",
     "max_health": 25,
     "armor": null,
@@ -945,7 +945,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Green Board Shorts",
     "max_health": 25,
     "armor": null,
@@ -955,7 +955,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Red Board Shorts",
     "max_health": 25,
     "armor": null,
@@ -965,7 +965,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Blue Bikini Top",
     "max_health": 30,
     "armor": null,
@@ -975,7 +975,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Green Bikini Top",
     "max_health": 30,
     "armor": null,
@@ -985,7 +985,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Red Bikini Top",
     "max_health": 30,
     "armor": null,
@@ -995,7 +995,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Blue Bikini Bottom",
     "max_health": 25,
     "armor": null,
@@ -1005,7 +1005,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Green Bikini Bottom",
     "max_health": 25,
     "armor": null,
@@ -1015,7 +1015,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Red Bikini Bottom",
     "max_health": 25,
     "armor": null,
@@ -1025,7 +1025,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Sentry Helm",
     "max_health": 36,
     "armor": 19,
@@ -1035,7 +1035,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Octarine Helm",
     "max_health": 29,
     "armor": 15,
@@ -1045,7 +1045,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Octarine Breastplate",
     "max_health": 37,
     "armor": 22,
@@ -1055,7 +1055,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Octarine Pants",
     "max_health": 32,
     "armor": 18,
@@ -1065,7 +1065,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Diving Helm",
     "max_health": 30,
     "armor": 17,
@@ -1075,7 +1075,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Kelp Mantle",
     "max_health": 32,
     "armor": 16,
@@ -1085,7 +1085,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Scuba Fins",
     "max_health": 12,
     "armor": 7,
@@ -1095,7 +1095,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Scholar's Hood",
     "max_health": 29,
     "armor": 8,
@@ -1105,7 +1105,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Scholar's Cloak",
     "max_health": 42,
     "armor": 11,
@@ -1115,7 +1115,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Omoroth's Helm",
     "max_health": 34,
     "armor": 17,
@@ -1125,7 +1125,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Omoroth's Chestplate",
     "max_health": 41,
     "armor": 20,
@@ -1135,7 +1135,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Omoroth's Leg Armor",
     "max_health": 37,
     "armor": 19,
@@ -1145,7 +1145,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Slime Helm",
     "max_health": 29,
     "armor": 16,
@@ -1155,7 +1155,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Slime Armor",
     "max_health": 37,
     "armor": 22,
@@ -1165,7 +1165,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Galaxite Helm",
     "max_health": 34,
     "armor": 18,
@@ -1175,7 +1175,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Galaxite Torso",
     "max_health": 42,
     "armor": 26,
@@ -1185,7 +1185,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Galaxite Pants",
     "max_health": 43,
     "armor": 20,
@@ -1195,7 +1195,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Assassin Hood",
     "max_health": 36,
     "armor": 13,
@@ -1205,7 +1205,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Assassin Cloak",
     "max_health": 49,
     "armor": 18,
@@ -1215,7 +1215,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Paladin Mask",
     "max_health": null,
     "armor": 22,
@@ -1225,7 +1225,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Paladin Harness",
     "max_health": null,
     "armor": 36,
@@ -1235,7 +1235,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Paladin Pants",
     "max_health": null,
     "armor": 28,
@@ -1245,7 +1245,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Miner's Protective Helm",
     "max_health": 40,
     "armor": 20,
@@ -1255,7 +1255,7 @@
     "type": "head"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Miner's Labour Suit",
     "max_health": 46,
     "armor": null,
@@ -1265,7 +1265,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Miner's Worker Pants",
     "max_health": 49,
     "armor": null,
@@ -1275,7 +1275,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Scarab Visor",
     "max_health": 34,
     "armor": 20,
@@ -1285,7 +1285,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Scarab Harness",
     "max_health": 52,
     "armor": 28,
@@ -1295,7 +1295,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Scarab Legs",
     "max_health": 42,
     "armor": 23,
@@ -1305,7 +1305,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Magma Horn Armor",
     "max_health": 36,
     "armor": 25,
@@ -1315,7 +1315,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Magma Torso Armor",
     "max_health": 52,
     "armor": 36,
@@ -1325,7 +1325,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Magma Shin Armor",
     "max_health": 47,
     "armor": 33,
@@ -1335,7 +1335,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Godsent King Mask",
     "max_health": 38,
     "armor": 19,
@@ -1345,7 +1345,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Godsent King Breast Armor",
     "max_health": 50,
     "armor": 27,
@@ -1355,7 +1355,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Godsent King Pants Armor",
     "max_health": 46,
     "armor": 23,
@@ -1365,7 +1365,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Radical Rabbit Ears",
     "max_health": 23,
     "armor": null,
@@ -1375,7 +1375,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Dracularva Cape",
     "max_health": 21,
     "armor": 12,
@@ -1385,7 +1385,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Spooky Blanket Hood",
     "max_health": null,
     "armor": null,
@@ -1395,7 +1395,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Spooky Blanket Cape",
     "max_health": null,
     "armor": null,
@@ -1405,7 +1405,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Pumpkin Head",
     "max_health": 24,
     "armor": 13,
@@ -1415,7 +1415,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Frankenbrute Head",
     "max_health": 24,
     "armor": 14,
@@ -1425,7 +1425,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Festive Hat",
     "max_health": 8,
     "armor": 5,
@@ -1435,7 +1435,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Snowman Hat",
     "max_health": 7,
     "armor": 12,
@@ -1445,7 +1445,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Gingerbreadman Head",
     "max_health": 21,
     "armor": 10,
@@ -1455,7 +1455,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Gingerbread Hood",
     "max_health": 19,
     "armor": 11,
@@ -1465,7 +1465,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Gingerbread Top",
     "max_health": 26,
     "armor": 13,
@@ -1475,7 +1475,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Gingerbread Pants",
     "max_health": 22,
     "armor": 13,
@@ -1485,7 +1485,7 @@
     "type": "legs"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Cupid Tunic",
     "max_health": 18,
     "armor": null,
@@ -1495,7 +1495,7 @@
     "type": "chest"
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Green Party Hat",
     "max_health": null,
     "armor": null,
@@ -1505,7 +1505,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Red Party Hat",
     "max_health": null,
     "armor": null,
@@ -1515,7 +1515,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Blue Party Hat",
     "max_health": null,
     "armor": null,
@@ -1525,7 +1525,7 @@
     "type": ""
   },
   {
-    "sprite_name": "",
+    "image": "",
     "name": "Purple Party Hat",
     "max_health": null,
     "armor": null,
