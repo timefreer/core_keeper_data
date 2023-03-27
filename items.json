@@ -1,25 +1,1584 @@
 [
   {
-    "name": "Wood Pickaxe",
-    "type": "Tool",
-    "description": "A crude tool, useful for breaking down walls.",
-    "rarity": "Common",
-    "melee_damage": [15, 17],
-    "attack_speed": 2.5,
-    "mining_damage": 15,
-    "durability": 200,
-    "reinforced_durability": 400, 
-    "reinforced_melee_damage": [17.25, 19.89]
-  }, {
-    "name": "Copper Pickaxe",
-    "type": "Tool",
-    "description": "A sturdy tool, well-suited for breaking down walls effortlessly.",
-    "rarity": "Common",
-    "melee_damage": [23, 27],
-    "attack_speed": 2.5,
-    "mining_damage": 43,
-    "durability": 400,
-    "reinforced_durability": 800, 
-    "reinforced_melee_damage": [16.45, 31.05] 
+    "sprite_name": "",
+    "name": "Copper Sword",
+    "damage": [
+      39,
+      47
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "107.5",
+    "durability": "250",
+    "effects": "",
+    "acquisition": "Crafted with Basic Workbench",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Tin Sword",
+    "damage": [
+      74,
+      90
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "205",
+    "durability": "300",
+    "effects": "",
+    "acquisition": "Crafted with Tin Workbench",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Tin Dagger",
+    "damage": [
+      61,
+      73
+    ],
+    "attacks_per_second": "3.3",
+    "damage_per_second": "221.1",
+    "durability": "300",
+    "effects": "",
+    "acquisition": "Crafted with Tin Anvil",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Tin Axe",
+    "damage": [
+      107,
+      129
+    ],
+    "attacks_per_second": "1.7",
+    "damage_per_second": "200.6",
+    "durability": "300",
+    "effects": "",
+    "acquisition": "Dropped by Big Larva",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Hunting Spear",
+    "damage": [
+      81,
+      97
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "222.5",
+    "durability": "300",
+    "effects": "+4% critical hit chance",
+    "acquisition": "Dropped by Caveling Spearman",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Iron Sword",
+    "damage": [
+      102,
+      124
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "282.5",
+    "durability": "350",
+    "effects": "",
+    "acquisition": "Crafted with Iron Workbench",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Slime Sword",
+    "damage": [
+      78,
+      94
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "215",
+    "durability": "350",
+    "effects": "Slows down targets movement speed by -41.1% for 4 sec",
+    "acquisition": "Crafted with Glurch Eye",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Broken Handle",
+    "damage": [
+      101,
+      123
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "280",
+    "durability": "350",
+    "effects": "+31 max health",
+    "acquisition": "Found in Chest in various biomes. Can also be dropped by The Hive Mother",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Battle Axe",
+    "damage": [
+      149,
+      181
+    ],
+    "attacks_per_second": "1.7",
+    "damage_per_second": "280.5",
+    "durability": "350",
+    "effects": "+17.6% melee damage",
+    "acquisition": "Dropped by The Hive Mother",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Larva Spike Club",
+    "damage": [
+      112,
+      136
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "310",
+    "durability": "350",
+    "effects": "+50% chance to knockback",
+    "acquisition": "Crafted with Heart of the Hive Mother",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Scarlet Sword",
+    "damage": [
+      124,
+      150
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "342.5",
+    "durability": "350",
+    "effects": "+11% critical hit chance",
+    "acquisition": "Crafted with Scarlet Anvil",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Scarlet Dagger",
+    "damage": [
+      97,
+      117
+    ],
+    "attacks_per_second": "3.3",
+    "damage_per_second": "353.1",
+    "durability": "350",
+    "effects": "+24% critical hit damage",
+    "acquisition": "Crafted with Scarlet Anvil",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Ritual Dagger",
+    "damage": [
+      106,
+      128
+    ],
+    "attacks_per_second": "3.3",
+    "damage_per_second": "386.1",
+    "durability": "350",
+    "effects": "+2 glow +6% critical hit chance +13% critical hit damage",
+    "acquisition": "Dropped by Malugaz the Corrupted",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Poisonous Sickle",
+    "damage": [
+      175,
+      213
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "485",
+    "durability": "500",
+    "effects": "+18% critical hit damage +28% chance to apply poison on hit, reduces enemy healing received by 75%",
+    "acquisition": "Dropped by Ivy the Poisonous Mass or found inside Insect remains in Mold Biome",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Rune Song",
+    "damage": [
+      204,
+      248
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "565",
+    "durability": "Unbreakable",
+    "effects": "+62 max health +3 life on melee hit +15% chance on hit to kill any target that has lower health than you",
+    "acquisition": "Crafted with Rune Parchment",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Tentacle Whip",
+    "damage": [
+      224,
+      272
+    ],
+    "attacks_per_second": "1.7",
+    "damage_per_second": "421.6",
+    "durability": "350",
+    "effects": "",
+    "acquisition": "Dropped by Tentacle",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Octarine Sword",
+    "damage": [
+      165,
+      201
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "457.5",
+    "durability": "350",
+    "effects": "+5.9% melee attack speed",
+    "acquisition": "Crafted with Octarine Workbench",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Octarine Axe",
+    "damage": [
+      245,
+      299
+    ],
+    "attacks_per_second": "1.7",
+    "damage_per_second": "462.4",
+    "durability": "350",
+    "effects": "+16% critical hit chance",
+    "acquisition": "Crafted with Octarine Workbench",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Anchor Axe",
+    "damage": [
+      243,
+      295
+    ],
+    "attacks_per_second": "1.7",
+    "damage_per_second": "457.3",
+    "durability": "350",
+    "effects": "+31% critical hit damage +57% chance to knockback",
+    "acquisition": "Dropped by Omoroth the Sea Titan",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Slippery Slime Sword",
+    "damage": [
+      177,
+      215
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "490",
+    "durability": "350",
+    "effects": "+8% critical hit chance +37% chance on hit to apply slippery movement",
+    "acquisition": "Dropped by Morpha the Aquatic Mass",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Galaxite Sword",
+    "damage": [
+      192,
+      234
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "532.5",
+    "durability": "350",
+    "effects": "+36% critical hit damage",
+    "acquisition": "Crafted with Galaxite Workbench",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Lava Battle Axe",
+    "damage": [
+      284,
+      346
+    ],
+    "attacks_per_second": "1.7",
+    "damage_per_second": "535.5",
+    "durability": "350",
+    "effects": "+52 burn damage applied on hit",
+    "acquisition": "Looted from Smoldering Chest",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Galaxite Dagger",
+    "damage": [
+      159,
+      193
+    ],
+    "attacks_per_second": "3.3",
+    "damage_per_second": "580.8",
+    "durability": "350",
+    "effects": "+18% critical hit chance",
+    "acquisition": "Crafted with Galaxite Workbench",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Prehistoric Crystal Spear",
+    "damage": [
+      216,
+      262
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "597.5",
+    "durability": "350",
+    "effects": "+36.1% melee damage",
+    "acquisition": "Digging spot in Mammoth Fossil scene in The Desert of Beginnings",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "sprite_name",
+    "name": "name",
+    "damage": "damage",
+    "attacks_per_second": "attacks_per_second",
+    "damage_per_second": "damage_per_second",
+    "durability": "durability",
+    "effects": "effects",
+    "acquisition": "acquisition",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Slingshot",
+    "damage": [
+      52,
+      62
+    ],
+    "attacks_per_second": "2",
+    "damage_per_second": "114",
+    "durability": "250",
+    "effects": "",
+    "acquisition": "Crafted with Tin Anvil",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Flintlock Musket",
+    "damage": [
+      198,
+      242
+    ],
+    "attacks_per_second": "0.5",
+    "damage_per_second": "110",
+    "durability": "150",
+    "effects": "",
+    "acquisition": "Purchased from Caveling Merchant",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Grubzooka",
+    "damage": [
+      99,
+      119
+    ],
+    "attacks_per_second": "0.7",
+    "damage_per_second": "76.3",
+    "durability": "150",
+    "effects": "Projectiles pierce through targets",
+    "acquisition": "Crafted with Heart of the Hive Mother",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Hand Mortar",
+    "damage": [
+      25,
+      29,
+      150
+    ],
+    "attacks_per_second": "0.7",
+    "damage_per_second": "114.8",
+    "durability": "250",
+    "effects": "234 mining damage",
+    "acquisition": "Dropped by The Hive Mother, Malugaz and Azeos",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Fireball Staff",
+    "damage": [
+      142,
+      172
+    ],
+    "attacks_per_second": "1.0",
+    "damage_per_second": "157",
+    "durability": "250",
+    "effects": "+35 burn damage every third sec",
+    "acquisition": "Dropped by Caveling Shaman",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Blowpipe",
+    "damage": [
+      117,
+      143
+    ],
+    "attacks_per_second": "1.7",
+    "damage_per_second": "221",
+    "durability": "250",
+    "effects": "+16% chance to apply poison on hit, reduces enemy healing received by 75%",
+    "acquisition": "Dropped by Infected Caveling and Mold Tentacle",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Wood Bow",
+    "damage": [
+      29,
+      35
+    ],
+    "attacks_per_second": "1.4",
+    "damage_per_second": "44.8",
+    "durability": "250",
+    "effects": "",
+    "acquisition": "",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Iron Bow",
+    "damage": [
+      99,
+      119
+    ],
+    "attacks_per_second": "1.4",
+    "damage_per_second": "152.6",
+    "durability": "250",
+    "effects": "+17.9% range damage",
+    "acquisition": "Crafted with Iron Anvil",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Octarine Bow",
+    "damage": [
+      149,
+      181
+    ],
+    "attacks_per_second": "1.4",
+    "damage_per_second": "231",
+    "durability": "250",
+    "effects": "+5.5% range attack speed",
+    "acquisition": "Crafted with Octarine Anvil",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Bubble Gun",
+    "damage": [
+      91,
+      111
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "252.5",
+    "durability": "350",
+    "effects": "+35% chance on hit to apply slippery movement",
+    "acquisition": "Dropped by Bubble Crab",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Scholar's Staff",
+    "damage": [
+      200,
+      244
+    ],
+    "attacks_per_second": "1",
+    "damage_per_second": "222",
+    "durability": "250",
+    "effects": "+26.8% range damage",
+    "acquisition": "Dropped by Caveling Scholar",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Phantom Spark",
+    "damage": [
+      195,
+      237
+    ],
+    "attacks_per_second": "1.4",
+    "damage_per_second": "302.4",
+    "durability": "Unbreakable",
+    "effects": "+12% critical hit chance +27% critical hit damage +20% chance to summon a ghost caveling when killing any enemy",
+    "acquisition": "Crafted with Glyph Parchment",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Throwing Daggers",
+    "damage": [
+      108,
+      130
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "297.5",
+    "durability": "250",
+    "effects": "+19% critical hit chance",
+    "acquisition": "Dropped by Caveling Assassin",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Galaxite Chakram",
+    "damage": [
+      108,
+      130
+    ],
+    "attacks_per_second": "2.5",
+    "damage_per_second": "297.5",
+    "durability": "350",
+    "effects": "+39% critical hit damage",
+    "acquisition": "Crafted with Galaxite Anvil",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Burnzooka",
+    "damage": [
+      177,
+      215,
+      332
+    ],
+    "attacks_per_second": "0.7",
+    "damage_per_second": "349",
+    "durability": "250",
+    "effects": "Projectiles pierce through targets 688 mining damage",
+    "acquisition": "Dropped by Igneous the Molten Mass",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Bomb Scarab Mortar",
+    "damage": [
+      25,
+      29,
+      360
+    ],
+    "attacks_per_second": "0.7",
+    "damage_per_second": "248.5",
+    "durability": "250",
+    "effects": "783 mining damage",
+    "acquisition": "Dropped by Bomb Scarab",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "",
+    "name": "Cupid Bow",
+    "damage": [
+      11,
+      13
+    ],
+    "attacks_per_second": "0.2",
+    "damage_per_second": "2.4",
+    "durability": "30",
+    "effects": "Charm the target for 20 sec",
+    "acquisition": "Drop from opening a Valentine's Gift",
+    "type": "weapon"
+  },
+  {
+    "sprite_name": "sprite_name",
+    "name": "name",
+    "damage": "Explosive damage",
+    "attacks_per_second": "Mining damage",
+    "damage_per_second": "acquisition",
+    "durability": "",
+    "effects": "",
+    "acquisition": "",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Crude Bomb",
+    "damage": [
+      106,
+      128
+    ],
+    "attacks_per_second": "117",
+    "damage_per_second": "Crafted with Alchemist's Table",
+    "durability": "",
+    "effects": "",
+    "acquisition": "",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Bomb",
+    "damage": [
+      303,
+      369
+    ],
+    "attacks_per_second": "495",
+    "damage_per_second": "Crafted with Alchemist's Table",
+    "durability": "",
+    "effects": "",
+    "acquisition": "",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Large Bomb",
+    "damage": [
+      467,
+      569
+    ],
+    "attacks_per_second": "945",
+    "damage_per_second": "Crafted with Distillery Table",
+    "durability": "",
+    "effects": "",
+    "acquisition": "",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Dynamite Pack",
+    "damage": "",
+    "attacks_per_second": "",
+    "damage_per_second": "Crafted with Electronics Table",
+    "durability": "",
+    "effects": "",
+    "acquisition": "",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Peasant Hat",
+    "max_health": null,
+    "armor": 2,
+    "effects": "+2% dodge chance",
+    "set_effects": "",
+    "acquisition": "Dropped by Big Larva",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Peasant Chest",
+    "max_health": null,
+    "armor": 2,
+    "effects": "+2% dodge chance",
+    "set_effects": "",
+    "acquisition": "Dropped by Big Larva",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Caveling Hood",
+    "max_health": 15,
+    "armor": null,
+    "effects": "+4% dodge chance +7.2% melee damage",
+    "set_effects": "",
+    "acquisition": "Dropped by Caveling",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Caveling Chest",
+    "max_health": 24,
+    "armor": null,
+    "effects": "+5% dodge chance +8.1% range damage",
+    "set_effects": "",
+    "acquisition": "Dropped by Caveling",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Caveling Pants",
+    "max_health": 20,
+    "armor": null,
+    "effects": "+5% dodge chance +8% mining damage",
+    "set_effects": "",
+    "acquisition": "Dropped by Caveling",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Wood Helm",
+    "max_health": 5,
+    "armor": 3,
+    "effects": "",
+    "set_effects": "",
+    "acquisition": "Crafted with Copper Anvil",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Wood Chest",
+    "max_health": 6,
+    "armor": 4,
+    "effects": "",
+    "set_effects": "",
+    "acquisition": "Crafted with Copper Anvil",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Wood Pants",
+    "max_health": 6,
+    "armor": 4,
+    "effects": "",
+    "set_effects": "",
+    "acquisition": "Crafted with Copper Anvil",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Copper Helm",
+    "max_health": 8,
+    "armor": 4,
+    "effects": "",
+    "set_effects": "",
+    "acquisition": "Crafted with Copper Anvil",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Copper Breastplate",
+    "max_health": 10,
+    "armor": 7,
+    "effects": "",
+    "set_effects": "",
+    "acquisition": "Crafted with Copper Anvil",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Copper Pants",
+    "max_health": 9,
+    "armor": 6,
+    "effects": "",
+    "set_effects": "",
+    "acquisition": "Crafted with Copper Anvil",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Bronze Helm",
+    "max_health": 12,
+    "armor": 6,
+    "effects": "+5% mining damage",
+    "set_effects": "",
+    "acquisition": "Crafted with Tin Anvil",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Bronze Breastplate",
+    "max_health": 18,
+    "armor": 9,
+    "effects": "+7.4% melee damage",
+    "set_effects": "",
+    "acquisition": "Crafted with Tin Anvil",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Bronze Pants",
+    "max_health": 14,
+    "armor": 8,
+    "effects": "+6% range damage",
+    "set_effects": "",
+    "acquisition": "Crafted with Tin Anvil",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Iron Helm",
+    "max_health": 15,
+    "armor": 10,
+    "effects": "+4.8% damage",
+    "set_effects": "3 set: +19.0% armor while at low health Iron Helm Iron Breastplate Iron Pants",
+    "acquisition": "Crafted with Iron Anvil",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Iron Breastplate",
+    "max_health": 25,
+    "armor": 12,
+    "effects": "+7.2% damage",
+    "set_effects": "3 set: +19.0% armor while at low health Iron Helm Iron Breastplate Iron Pants",
+    "acquisition": "Crafted with Iron Anvil",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Iron Pants",
+    "max_health": 20,
+    "armor": 12,
+    "effects": "+5.8% damage",
+    "set_effects": "3 set: +19.0% armor while at low health Iron Helm Iron Breastplate Iron Pants",
+    "acquisition": "Crafted with Iron Anvil",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Skirmisher Cap",
+    "max_health": 15,
+    "armor": 7,
+    "effects": "+1.5% range attack speed",
+    "set_effects": "",
+    "acquisition": "Dropped by Caveling Skirmisher",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Larva Helm",
+    "max_health": 20,
+    "armor": 10,
+    "effects": "+26 mining damage -5.2% movement speed",
+    "set_effects": "2 set: Disguised as a larva Larva Helm Larva Chest",
+    "acquisition": "Dropped by The Hive Mother",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Larva Chest",
+    "max_health": 27,
+    "armor": 14,
+    "effects": "+28 mining damage -5.4% movement speed",
+    "set_effects": "2 set: Disguised as a larva Larva Helm Larva Chest",
+    "acquisition": "Dropped by Ghorm the Devourer",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Carapace Helm",
+    "max_health": 17,
+    "armor": 10,
+    "effects": "+6% explosives damage",
+    "set_effects": "2 set: +23.8% damage for a short duration after mining a wall Carapace Helm Carapace Breastplate",
+    "acquisition": "Crafted with Ghorm's Horn",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Carapace Breastplate",
+    "max_health": 27,
+    "armor": 15,
+    "effects": "+9% explosives damage",
+    "set_effects": "2 set: +23.8% damage for a short duration after mining a wall Carapace Helm Carapace Breastplate",
+    "acquisition": "Crafted with Ghorm's Horn",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "King Slime Crown",
+    "max_health": 23,
+    "armor": 11,
+    "effects": "+3 glow +3% critical hit chance",
+    "set_effects": "2 set: You are the king of slimes King Slime Crown Royal Gel",
+    "acquisition": "Dropped by King Slime",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Farmer's Hat",
+    "max_health": 20,
+    "armor": null,
+    "effects": "+7% more healing from health over time regeneration +10.1% extra harvest chance",
+    "set_effects": "",
+    "acquisition": "Dropped by Caveling Gardener",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Scarlet Helm",
+    "max_health": 25,
+    "armor": 12,
+    "effects": "+2% critical hit chance",
+    "set_effects": "3 set: Killing an enemy increases critical hit chance by 3%, stacks up to 5 times Scarlet Helm Scarlet Breastplate Scarlet Pants",
+    "acquisition": "Crafted with Scarlet Anvil",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Scarlet Breastplate",
+    "max_health": 31,
+    "armor": 19,
+    "effects": "+4% critical hit chance",
+    "set_effects": "3 set: Killing an enemy increases critical hit chance by 3%, stacks up to 5 times Scarlet Helm Scarlet Breastplate Scarlet Pants",
+    "acquisition": "Crafted with Scarlet Anvil",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Scarlet Pants",
+    "max_health": 27,
+    "armor": 16,
+    "effects": "+3% critical hit chance",
+    "set_effects": "3 set: Killing an enemy increases critical hit chance by 3%, stacks up to 5 times Scarlet Helm Scarlet Breastplate Scarlet Pants",
+    "acquisition": "Crafted with Scarlet Anvil",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Hunter Hood",
+    "max_health": 23,
+    "armor": null,
+    "effects": "+5% dodge chance +9% range damage",
+    "set_effects": "2 set: +15% critical hit chance after standing still for a short duration Hunter Hood Hunter Cloak",
+    "acquisition": "Dropped by Caveling Hunter",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Hunter Cloak",
+    "max_health": 36,
+    "armor": null,
+    "effects": "+7% dodge chance +11.5% range damage",
+    "set_effects": "2 set: +15% critical hit chance after standing still for a short duration Hunter Hood Hunter Cloak",
+    "acquisition": "Dropped by Caveling Hunter",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Ivy's Thorn Harness",
+    "max_health": 70,
+    "armor": null,
+    "effects": "+31% critical hit damage",
+    "set_effects": "2 set: +25% critical hit chance for a short duration after successfully applying poison Ivy's Thorn Harness Ivy's Pants Ivy's Ring",
+    "acquisition": "Dropped by Ivy the Poisonous Mass",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Ivy's Pants",
+    "max_health": 65,
+    "armor": null,
+    "effects": "+31% critical hit damage",
+    "set_effects": "2 set: +25% critical hit chance for a short duration after successfully applying poison Ivy's Thorn Harness Ivy's Pants Ivy's Ring",
+    "acquisition": "Dropped by Ivy the Poisonous Mass",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Sunglasses",
+    "max_health": null,
+    "armor": null,
+    "effects": "+9% dodge chance",
+    "set_effects": "",
+    "acquisition": "Loot from Seashell Chest",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Towel",
+    "max_health": 30,
+    "armor": null,
+    "effects": "+7% movement speed",
+    "set_effects": "",
+    "acquisition": "Loot from Seashell Chest",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Blue Board Shorts",
+    "max_health": 25,
+    "armor": null,
+    "effects": "+6% movement speed",
+    "set_effects": "",
+    "acquisition": "Loot from Seashell Chest",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Green Board Shorts",
+    "max_health": 25,
+    "armor": null,
+    "effects": "+6% movement speed",
+    "set_effects": "",
+    "acquisition": "Loot from Seashell Chest",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Red Board Shorts",
+    "max_health": 25,
+    "armor": null,
+    "effects": "+6% movement speed",
+    "set_effects": "",
+    "acquisition": "Loot from Seashell Chest",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Blue Bikini Top",
+    "max_health": 30,
+    "armor": null,
+    "effects": "+7% movement speed",
+    "set_effects": "",
+    "acquisition": "Loot from Seashell Chest",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Green Bikini Top",
+    "max_health": 30,
+    "armor": null,
+    "effects": "+7% movement speed",
+    "set_effects": "",
+    "acquisition": "Loot from Seashell Chest",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Red Bikini Top",
+    "max_health": 30,
+    "armor": null,
+    "effects": "+7% movement speed",
+    "set_effects": "",
+    "acquisition": "Loot from Seashell Chest",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Blue Bikini Bottom",
+    "max_health": 25,
+    "armor": null,
+    "effects": "+6% movement speed",
+    "set_effects": "",
+    "acquisition": "Loot from Seashell Chest",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Green Bikini Bottom",
+    "max_health": 25,
+    "armor": null,
+    "effects": "+6% movement speed",
+    "set_effects": "",
+    "acquisition": "Loot from Seashell Chest",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Red Bikini Bottom",
+    "max_health": 25,
+    "armor": null,
+    "effects": "+6% movement speed",
+    "set_effects": "",
+    "acquisition": "Loot from Seashell Chest",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Sentry Helm",
+    "max_health": 36,
+    "armor": 19,
+    "effects": "+7% reduced damage taken from bosses",
+    "set_effects": "",
+    "acquisition": "Dropped by Core Sentry",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Octarine Helm",
+    "max_health": 29,
+    "armor": 15,
+    "effects": "+6.6% mining speed",
+    "set_effects": "3 set: Attack speed is increased by 0.2% for every percentage of missing health Octarine Helm Octarine Breastplate Octarine Pants",
+    "acquisition": "Crafted with Octarine Anvil",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Octarine Breastplate",
+    "max_health": 37,
+    "armor": 22,
+    "effects": "+6% melee attack speed",
+    "set_effects": "3 set: Attack speed is increased by 0.2% for every percentage of missing health Octarine Helm Octarine Breastplate Octarine Pants",
+    "acquisition": "Crafted with Octarine Anvil",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Octarine Pants",
+    "max_health": 32,
+    "armor": 18,
+    "effects": "+5.6% range attack speed",
+    "set_effects": "3 set: Attack speed is increased by 0.2% for every percentage of missing health Octarine Helm Octarine Breastplate Octarine Pants",
+    "acquisition": "Crafted with Octarine Anvil",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Diving Helm",
+    "max_health": 30,
+    "armor": 17,
+    "effects": "+7% chance for higher rarity fish to bite +40 fishing",
+    "set_effects": "3 set: +24% of fishing added as range damage 5 set: +29% chance to get double fish when catching a fish Diving Helm Kelp Mantle Scuba Fins Neptune Necklace Goldfish Ring",
+    "acquisition": "Fished in The Sunken Sea",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Kelp Mantle",
+    "max_health": 32,
+    "armor": 16,
+    "effects": "Fish starts +7% closer to be reeled in",
+    "set_effects": "3 set: +24% of fishing added as range damage 5 set: +29% chance to get double fish when catching a fish Diving Helm Kelp Mantle Scuba Fins Neptune Necklace Goldfish Ring",
+    "acquisition": "Fished in Mold Biome",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Scuba Fins",
+    "max_health": 12,
+    "armor": 7,
+    "effects": "+8% chance to get a fish on the hook",
+    "set_effects": "3 set: +24% of fishing added as range damage 5 set: +29% chance to get double fish when catching a fish Diving Helm Kelp Mantle Scuba Fins Neptune Necklace Goldfish Ring",
+    "acquisition": "Fished in Dirt Biome",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Scholar's Hood",
+    "max_health": 29,
+    "armor": 8,
+    "effects": "+4% dodge chance +3.1% range attack speed",
+    "set_effects": "2 set: +24% damage against bosses Scholar's Hood Scholar's Cloak",
+    "acquisition": "Dropped by Caveling Scholar",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Scholar's Cloak",
+    "max_health": 42,
+    "armor": 11,
+    "effects": "+5% dodge chance +5% critical hit chance",
+    "set_effects": "2 set: +24% damage against bosses Scholar's Hood Scholar's Cloak",
+    "acquisition": "Dropped by Caveling Scholar",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Omoroth's Helm",
+    "max_health": 34,
+    "armor": 17,
+    "effects": "+5.5% damage +1.7% melee and range attack speed",
+    "set_effects": "3 set: +23.1% armor while adjacent to water Omoroth's Helm Omoroth's Chestplate Omoroth's Leg Armor",
+    "acquisition": "Dropped by Omoroth the Sea Titan",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Omoroth's Chestplate",
+    "max_health": 41,
+    "armor": 20,
+    "effects": "+7.1% damage +2.2% melee and range attack speed",
+    "set_effects": "3 set: +23.1% armor while adjacent to water Omoroth's Helm Omoroth's Chestplate Omoroth's Leg Armor",
+    "acquisition": "Dropped by Omoroth the Sea Titan",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Omoroth's Leg Armor",
+    "max_health": 37,
+    "armor": 19,
+    "effects": "+6.5% damage +2% melee and range attack speed",
+    "set_effects": "3 set: +23.1% armor while adjacent to water Omoroth's Helm Omoroth's Chestplate Omoroth's Leg Armor",
+    "acquisition": "Dropped by Omoroth the Sea Titan",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Slime Helm",
+    "max_health": 29,
+    "armor": 16,
+    "effects": "+8% damage",
+    "set_effects": "2 set: Immune to slippery movement 3 set: Melee attackers become slippery when attacking you Slime Helm Slime Armor Morpha's Ring",
+    "acquisition": "Dropped by Morpha the Aquatic Mass",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Slime Armor",
+    "max_health": 37,
+    "armor": 22,
+    "effects": "+11.9% damage",
+    "set_effects": "2 set: Immune to slippery movement 3 set: Melee attackers become slippery when attacking you Slime Helm Slime Armor Morpha's Ring",
+    "acquisition": "Dropped by Morpha the Aquatic Mass",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Galaxite Helm",
+    "max_health": 34,
+    "armor": 18,
+    "effects": "+14% critical hit damage",
+    "set_effects": "3 set: +12.7% damage while at max health Galaxite Helm Galaxite Torso Galaxite Pants",
+    "acquisition": "Crafted with Galaxite Anvil",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Galaxite Torso",
+    "max_health": 42,
+    "armor": 26,
+    "effects": "+19% critical hit damage",
+    "set_effects": "3 set: +12.7% damage while at max health Galaxite Helm Galaxite Torso Galaxite Pants",
+    "acquisition": "Crafted with Galaxite Anvil",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Galaxite Pants",
+    "max_health": 43,
+    "armor": 20,
+    "effects": "+19% critical hit damage",
+    "set_effects": "3 set: +12.7% damage while at max health Galaxite Helm Galaxite Torso Galaxite Pants",
+    "acquisition": "Crafted with Galaxite Anvil",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Assassin Hood",
+    "max_health": 36,
+    "armor": 13,
+    "effects": "+2.9% movement speed +5% dodge chance",
+    "set_effects": "2 set: +26.6% melee and range attack speed for a short duration after dodging Assassin Hood Assassin Cloak",
+    "acquisition": "Dropped by Caveling Assassin",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Assassin Cloak",
+    "max_health": 49,
+    "armor": 18,
+    "effects": "+4.4% movement speed +6% dodge chance",
+    "set_effects": "2 set: +26.6% melee and range attack speed for a short duration after dodging Assassin Hood Assassin Cloak",
+    "acquisition": "Dropped by Caveling Assassin",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Paladin Mask",
+    "max_health": null,
+    "armor": 22,
+    "effects": "+6% dodge chance +7% critical hit chance",
+    "set_effects": "",
+    "acquisition": "Loot from Golden Ancient Chest",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Paladin Harness",
+    "max_health": null,
+    "armor": 36,
+    "effects": "+8% dodge chance +8% critical hit chance",
+    "set_effects": "",
+    "acquisition": "Loot from Golden Ancient Chest",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Paladin Pants",
+    "max_health": null,
+    "armor": 28,
+    "effects": "+8% dodge chance +7% critical hit chance",
+    "set_effects": "",
+    "acquisition": "Loot from Golden Ancient Chest",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Miner's Protective Helm",
+    "max_health": 40,
+    "armor": 20,
+    "effects": "+14% mining damage +4 glow",
+    "set_effects": "3 set: +16% movement speed boost for a short duration after mining a wall 5 set: +16% of mining damage added as melee damage Miner's Protective Helm Miner's Labour Suit Miner's Worker Pants Black Necklace Black Ring",
+    "acquisition": "Loot from Smoldering Chest",
+    "type": "head"
+  },
+  {
+    "sprite_name": "",
+    "name": "Miner's Labour Suit",
+    "max_health": 46,
+    "armor": null,
+    "effects": "+18% mining damage +3.7% mining speed",
+    "set_effects": "3 set: +16% movement speed boost for a short duration after mining a wall 5 set: +16% of mining damage added as melee damage Miner's Protective Helm Miner's Labour Suit Miner's Worker Pants Black Necklace Black Ring",
+    "acquisition": "Loot from Smoldering Chest",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Miner's Worker Pants",
+    "max_health": 49,
+    "armor": null,
+    "effects": "+78 mining damage +3.8% mining speed",
+    "set_effects": "3 set: +16% movement speed boost for a short duration after mining a wall 5 set: +16% of mining damage added as melee damage Miner's Protective Helm Miner's Labour Suit Miner's Worker Pants Black Necklace Black Ring",
+    "acquisition": "Loot from Smoldering Chest",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Scarab Visor",
+    "max_health": 34,
+    "armor": 20,
+    "effects": "+25 thorns damage",
+    "set_effects": "3 set: Your thorns damage is added to your melee and range damage Ra-Akar's Necklace Scarab Visor Scarab Harness Scarab Legs",
+    "acquisition": "Dropped by Ra-Akar the Sand Titan",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Scarab Harness",
+    "max_health": 52,
+    "armor": 28,
+    "effects": "+31 thorns damage",
+    "set_effects": "3 set: Your thorns damage is added to your melee and range damage Ra-Akar's Necklace Scarab Visor Scarab Harness Scarab Legs",
+    "acquisition": "Dropped by Ra-Akar the Sand Titan",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Scarab Legs",
+    "max_health": 42,
+    "armor": 23,
+    "effects": "+30 thorns damage",
+    "set_effects": "3 set: Your thorns damage is added to your melee and range damage Ra-Akar's Necklace Scarab Visor Scarab Harness Scarab Legs",
+    "acquisition": "Dropped by Ra-Akar the Sand Titan",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Magma Horn Armor",
+    "max_health": 36,
+    "armor": 25,
+    "effects": "+25 burn damage applied on hit",
+    "set_effects": "3 set: Immune to burning Magma Horn Armor Magma Torso Armor Magma Shin Armor",
+    "acquisition": "Dropped by Igneous the Molten Mass",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Magma Torso Armor",
+    "max_health": 52,
+    "armor": 36,
+    "effects": "+33 burn damage applied on hit",
+    "set_effects": "3 set: Immune to burning Magma Horn Armor Magma Torso Armor Magma Shin Armor",
+    "acquisition": "Dropped by Igneous the Molten Mass",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Magma Shin Armor",
+    "max_health": 47,
+    "armor": 33,
+    "effects": "+32 burn damage applied on hit",
+    "set_effects": "3 set: Immune to burning Magma Horn Armor Magma Torso Armor Magma Shin Armor",
+    "acquisition": "Dropped by Igneous the Molten Mass",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Godsent King Mask",
+    "max_health": 38,
+    "armor": 19,
+    "effects": "+8.4% damage +4% additional chance to trigger Ra-Akar's soul power",
+    "set_effects": "3 set: +171% longer dash duration Godsent King Mask Godsent King Breast Armor Godsent King Pants Armor",
+    "acquisition": "Loot from Desert Prince Chest in the Titan Temple",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Godsent King Breast Armor",
+    "max_health": 50,
+    "armor": 27,
+    "effects": "+9.6% damage +6% additional chance to trigger Azeos' soul power",
+    "set_effects": "3 set: +171% longer dash duration Godsent King Mask Godsent King Breast Armor Godsent King Pants Armor",
+    "acquisition": "Loot from Desert Queen Chest in the Titan Temple",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Godsent King Pants Armor",
+    "max_health": 46,
+    "armor": 23,
+    "effects": "+9% damage +3% additional chance to trigger Omoroth's soul power",
+    "set_effects": "3 set: +171% longer dash duration Godsent King Mask Godsent King Breast Armor Godsent King Pants Armor",
+    "acquisition": "Loot from Desert King Chest in the Titan Temple",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Radical Rabbit Ears",
+    "max_health": 23,
+    "armor": null,
+    "effects": "+3.8% movement speed +6% dodge chance",
+    "set_effects": "3 set: +7% melee and range attack speed Radical Rabbit Ears Eostre Necklace Ostara Ring",
+    "acquisition": "Dropped by Awakened Azeos",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Dracularva Cape",
+    "max_health": 21,
+    "armor": 12,
+    "effects": "+3 life on melee hit",
+    "set_effects": "",
+    "acquisition": "Creepy Costume Party",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Spooky Blanket Hood",
+    "max_health": null,
+    "armor": null,
+    "effects": "+5% dodge chance +3.8% movement speed",
+    "set_effects": "",
+    "acquisition": "Creepy Costume Party",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Spooky Blanket Cape",
+    "max_health": null,
+    "armor": null,
+    "effects": "+5% dodge chance +4.1% movement speed",
+    "set_effects": "",
+    "acquisition": "Creepy Costume Party",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Pumpkin Head",
+    "max_health": 24,
+    "armor": 13,
+    "effects": "+2 glow",
+    "set_effects": "",
+    "acquisition": "Creepy Costume Party",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Frankenbrute Head",
+    "max_health": 24,
+    "armor": 14,
+    "effects": "+4% chance to knockback",
+    "set_effects": "",
+    "acquisition": "Creepy Costume Party",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Festive Hat",
+    "max_health": 8,
+    "armor": 5,
+    "effects": "+0.2 health every sec",
+    "set_effects": "",
+    "acquisition": "Christmas Seasonal Event",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Snowman Hat",
+    "max_health": 7,
+    "armor": 12,
+    "effects": "",
+    "set_effects": "",
+    "acquisition": "Christmas Seasonal Event",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Gingerbreadman Head",
+    "max_health": 21,
+    "armor": 10,
+    "effects": "+4% less food drained when running",
+    "set_effects": "",
+    "acquisition": "Christmas Seasonal Event",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Gingerbread Hood",
+    "max_health": 19,
+    "armor": 11,
+    "effects": "+1.4% melee and range attack speed",
+    "set_effects": "",
+    "acquisition": "Christmas Seasonal Event",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Gingerbread Top",
+    "max_health": 26,
+    "armor": 13,
+    "effects": "+4% less food drained when running",
+    "set_effects": "",
+    "acquisition": "Christmas Seasonal Event",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Gingerbread Pants",
+    "max_health": 22,
+    "armor": 13,
+    "effects": "+4% less food drained when running",
+    "set_effects": "",
+    "acquisition": "Christmas Seasonal Event",
+    "type": "legs"
+  },
+  {
+    "sprite_name": "",
+    "name": "Cupid Tunic",
+    "max_health": 18,
+    "armor": null,
+    "effects": "+2.7% range attack speed",
+    "set_effects": "3 set: +100% longer duration of applied charm effects\t Cupid Tunic  Valentine Necklace  Valentine Ring",
+    "acquisition": "Valentine Seasonal Event",
+    "type": "chest"
+  },
+  {
+    "sprite_name": "",
+    "name": "Green Party Hat",
+    "max_health": null,
+    "armor": null,
+    "effects": "",
+    "set_effects": "",
+    "acquisition": "Sold from Seasonal Merchant",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Red Party Hat",
+    "max_health": null,
+    "armor": null,
+    "effects": "",
+    "set_effects": "",
+    "acquisition": "Sold from Seasonal Merchant",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Blue Party Hat",
+    "max_health": null,
+    "armor": null,
+    "effects": "",
+    "set_effects": "",
+    "acquisition": "Sold from Seasonal Merchant",
+    "type": ""
+  },
+  {
+    "sprite_name": "",
+    "name": "Purple Party Hat",
+    "max_health": null,
+    "armor": null,
+    "effects": "",
+    "set_effects": "",
+    "acquisition": "Sold from Seasonal Merchant",
+    "type": ""
   }
 ]
