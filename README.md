@@ -1,2 +1,5 @@
-# core_keeper_data
-JSON file repo for core keeper data, starting with items. Feel free to add!
+# Core Keeper Data
+Data repo for core keeper. Currently missing a lot.
+
+## Contribute
+Take a look at the project for this repo for things to do if you want to help out. All contributions are welcome! :)
